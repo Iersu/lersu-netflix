@@ -22,7 +22,7 @@ const firebase = window.firebase.initializeApp(config)
 
 ReactDOM.render(
   <React.StrictMode> 
-    <Router>
+    <Router basename='/lersu-netflix'>
       <ScrollToTop/>
       <FirebaseContext.Provider value={{ firebase: window.firebase }} >
         <SignUpContextProvider>
