@@ -1,6 +1,6 @@
 import styled  from "styled-components";
 import { Link as ReachRouterLink } from "react-router-dom";
-import image from '../../../images/misc/home-bg.jpg'
+
 
 export const Background = styled.section`
     display: flex;
