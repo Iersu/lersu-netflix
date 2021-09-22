@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/lersu-netflix/static/js/main.0a637468.chunk.js",
-    "main.js.map": "/lersu-netflix/static/js/main.0a637468.chunk.js.map",
+    "main.js": "/lersu-netflix/static/js/main.f0574e79.chunk.js",
+    "main.js.map": "/lersu-netflix/static/js/main.f0574e79.chunk.js.map",
     "runtime-main.js": "/lersu-netflix/static/js/runtime-main.f4cfce43.js",
     "runtime-main.js.map": "/lersu-netflix/static/js/runtime-main.f4cfce43.js.map",
     "static/js/2.32018cf2.chunk.js": "/lersu-netflix/static/js/2.32018cf2.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.f4cfce43.js",
     "static/js/2.32018cf2.chunk.js",
-    "static/js/main.0a637468.chunk.js"
+    "static/js/main.f0574e79.chunk.js"
   ]
 }
