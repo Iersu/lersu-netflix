@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/lersu-netflix/static/js/main.f0574e79.chunk.js",
-    "main.js.map": "/lersu-netflix/static/js/main.f0574e79.chunk.js.map",
+    "main.js": "/lersu-netflix/static/js/main.e444ec11.chunk.js",
+    "main.js.map": "/lersu-netflix/static/js/main.e444ec11.chunk.js.map",
     "runtime-main.js": "/lersu-netflix/static/js/runtime-main.f4cfce43.js",
     "runtime-main.js.map": "/lersu-netflix/static/js/runtime-main.f4cfce43.js.map",
-    "static/js/2.32018cf2.chunk.js": "/lersu-netflix/static/js/2.32018cf2.chunk.js",
-    "static/js/2.32018cf2.chunk.js.map": "/lersu-netflix/static/js/2.32018cf2.chunk.js.map",
+    "static/js/2.3697acfe.chunk.js": "/lersu-netflix/static/js/2.3697acfe.chunk.js",
+    "static/js/2.3697acfe.chunk.js.map": "/lersu-netflix/static/js/2.3697acfe.chunk.js.map",
     "index.html": "/lersu-netflix/index.html",
-    "static/js/2.32018cf2.chunk.js.LICENSE.txt": "/lersu-netflix/static/js/2.32018cf2.chunk.js.LICENSE.txt"
+    "static/js/2.3697acfe.chunk.js.LICENSE.txt": "/lersu-netflix/static/js/2.3697acfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f4cfce43.js",
-    "static/js/2.32018cf2.chunk.js",
-    "static/js/main.f0574e79.chunk.js"
+    "static/js/2.3697acfe.chunk.js",
+    "static/js/main.e444ec11.chunk.js"
   ]
 }
