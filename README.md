@@ -20,7 +20,7 @@ The project is made with intent to learn reusable components that can be used in
 
 - [React](https://reactjs.org/) 
 - [Styled Components](https://styled-components.com/)
-- Firebase(https://firebase.google.com/)
+- [Firebase](https://firebase.google.com/)
 
 ### What I learned
 
