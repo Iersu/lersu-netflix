@@ -10,7 +10,7 @@
 
 ## Overview
 
-the site is made with intent to learn reusable components that can be used sed in various parts of an application.It is the biggest project i made so far and the most fun i had making project.I put a lot of effort into it and I hope that you like it.
+The project is made with intent to learn reusable components that can be used sed in various parts of an application.It is the biggest project i made so far and the most fun i had making project.I put a lot of effort into it and I hope that you like it.
 
 ### Link
 
