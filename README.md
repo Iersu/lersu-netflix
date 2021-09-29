@@ -27,7 +27,7 @@ The project is made with intent to learn reusable components that can be used in
 - scalable folder structure
 - tree shaking
 - how to make highly reusable components with Compound Component Pattern 
-- Difference between CSR and SSR (I had to used HashRouter instead of BrowserRouter in this project to deal with browser refresh)
+- Difference between CSR and SSR (since i had to use HashRouter insted of BrowserRouter)
 - better undestanding of ReactJS
-- basic usage of Firebase autheticantion and firestore
+- basic usage of Firebase authenticationand and firestore
 
