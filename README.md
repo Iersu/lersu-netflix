@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Links](#links)
+- [Link](#link)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 
