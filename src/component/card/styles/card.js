@@ -95,7 +95,7 @@ export const Item = styled.div`
     margin-right: 5px;
     user-select: none;
     transition: transform .5s cubic-bezier(0.5, 0, 0.1, 1);
-
+    cursor: pointer;
     &:hover {
        transform: scale(1.3) ;
        z-index: 99;
